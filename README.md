@@ -1,2 +1,2 @@
 # Titanic-Dataset
-Task 1 (Ellevate Labs)
+Task 1 (Elevate Labs)
